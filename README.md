@@ -9,7 +9,7 @@
 <br />
 <div align="center">
 
-<h3 align="center">PRA1:  Implementación de un agente para la robótica espacial</h3>
+<h3 align="center">PRA1: Implementación de un agente para la robótica espacial</h3>
   <p align="center">
     Proyecto de la asignatura de Aprendizaje por refuerzo.
     <br />
@@ -47,7 +47,7 @@ En este repositorio se presenta la solución a la actividad PRA1. La solución s
 
 Se tienen los siguientes archivos en el repositorio:
 
-- [M2.883_20221_Práctica-Enunciado.pdf](): Enunciado de la práctica.
+- [M2.883_20221_Práctica-Enunciado.pdf](M2_883_20221_Práctica-Enunciado.pdf): Enunciado de la práctica.
 - [M2_883_20221_Práctica_Sol_AndresMerinoToapanta.pdf](): Informe de la solución de la práctica.
 - [M2_883_20221_Práctica_Sol_AndresMerinoToapanta.ipynb](): Notebook con la implementación de la solución.
 - [M2_883_20221_Práctica_Sol_AndresMerinoToapanta.html](): HTML con la implementación de la solución.
