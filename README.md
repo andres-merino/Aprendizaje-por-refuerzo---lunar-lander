@@ -51,7 +51,6 @@ Se tienen los siguientes archivos en el repositorio:
 - [M2_883_20221_Práctica-Enunciado.pdf](/M2_883_20221_Práctica-Enunciado.pdf): Enunciado de la práctica.
 - [M2_883_20221_Práctica_Sol_AndresMerinoToapanta.pdf](/M2_883_20221_Práctica_Sol_AndresMerinoToapanta.pdf): Informe de la solución de la práctica.
 - [M2_883_20221_Práctica_Sol_AndresMerinoToapanta.ipynb](/M2_883_20221_Práctica_Sol_AndresMerinoToapanta.ipynb): Notebook con la implementación de la solución.
-- [M2_883_20221_Práctica_Sol_AndresMerinoToapanta.html](/M2_883_20221_Práctica_Sol_AndresMerinoToapanta.html): HTML con la implementación de la solución.
 - [agentDQN_Trained_Model.pth](/agentDQN_Trained_Model.pth): Modelo entrenado del agente DQN.
 - [agentA2C_Critic_Trained_Model.pth](/agentA2C_Critic_Trained_Model.pth): Modelo entrenado del agente A2C, critic.
 - [agentA2C_Actor_Trained_Model.pth](/agentA2C_Actor_Trained_Model.pth): Modelo entrenado del agente A2C, actor.
