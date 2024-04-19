@@ -13,7 +13,7 @@
   <p align="center">
     Proyecto de la asignatura de Aprendizaje por refuerzo.
     <br />
-    <a href="https://github.com/alephsub0/TestAssigner/issues">Reportar un Problema</a>
+    <a href="https://github.com/andres-merino/Aprendizaje-por-refuerzo---lunar-lander/issues">Reportar un Problema</a>
     <br />
     <br />
     Abrir en 
@@ -59,12 +59,12 @@ Se tienen los siguientes archivos en el repositorio:
  
 ## Créditos
 
-Andrés Merino\
-[Proyecto Alephsub0](https://www.alephsub0.org/about/),\
-Docente Investigador\
-Pontificia Universidad Católica del Ecuador\
-aemerinot@gmail.com\
-[![LinkedIn][linkedin-shield]][linkedin-url-aemt]
+**Andrés Merino** (aemerinot@gmail.com) 
+
+- Docente-Investigador en Pontificia Universidad Católica del Ecuador
+- Fundador del [Proyecto Alephsub0](https://www.alephsub0.org/about/)
+  
+  [![LinkedIn][linkedin-shield]][linkedin-url-aemt]
 
 ## Licencia
 
